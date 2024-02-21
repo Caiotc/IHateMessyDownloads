@@ -14,4 +14,4 @@ for god sake just `dotnet run` this.
 - [] organize a workstation folder structure for work
 - [] a study folder structure
 - [] maybe open ai? from the file title and part of it content it can catalog where this file should go( would be interesting)
-- [] produce an installer that executes himself without being regitered manually in a task scheduler.
+- [] produce an installer that executes himself without being registered manually in a task scheduler.
